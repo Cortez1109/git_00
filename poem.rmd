@@ -1,5 +1,5 @@
 ---
-title: "git_00"
+title: "git_01"
 author: "Claudia Cortez"
 date: "Summer 2024"
 output: html_document
@@ -40,7 +40,8 @@ My little horse must think it queer
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 The sun was shining on the sea,  
       Shining with all his might:  
-He did his very best to make  
+He did his very best to make
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
